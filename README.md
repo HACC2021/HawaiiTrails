@@ -8,7 +8,7 @@ To clone the repository you will need to first make sure you have the latest ver
 - `yarn --version` > 1.17.3
 
 Then use the following command to clone the repository.
-- `git clone https://github.com/HACC2021/HawaiiTrails`
+- `git clone https://github.com/HACC2021/HawaiiTrails.git`
 
 ## Install Dependencies
 
