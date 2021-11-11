@@ -1,5 +1,12 @@
 # Hawai'i Trails
 
+## Commit History
+The project was started in two other repositories as we were testing things out and didn't want to mess up this repo. We couldn't transfer the commit history over so they can be found in the links below.
+
+The frontend commits can be found at [https://github.com/janeligio/hawaii-trails](https://github.com/janeligio/hawaii-trails).
+
+The backend commits can be found at [https://github.com/joshuahartmann/hawaii-trails-api](https://github.com/joshuahartmann/hawaii-trails-api).
+
 ## Clone Repository
 To clone the repository you will need to first make sure you have the latest version of [node](https://nodejs.org/en/) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed.
 
